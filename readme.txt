@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will allow you to display a list of Moodle courses for a specific user of Moodle. This is ideal for teachers who use WordPress for public communication and Moodle for private classroom activities. 
+This plugin will allow you to display a list of Moodle courses for a specific user of Moodle. 
 
 == Description ==
 
