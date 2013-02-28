@@ -58,8 +58,12 @@ Most likely your database connection settings are incorrect.  Please recheck and
 
 == Screenshots ==
 
-1. screenshots and plugin information can be found here:  http://iblog.dearbornschools.org/blog/ilearn-course-list-and-login-widget/
-Please note that this was developed by Dearborn Public Schools and we utilize this on our Wordpress Network for teachers.  Our installation of Moodle is called "iLearn".  
+1. Places where you must change the code are highlighted
+
+2. Here is the widget settings the end user will see.  The can add a title to the widget and add the Moodle User Account that they want to display courses for.
+
+3. Frontend display of courses.
+
 
 == Changelog ==
 
