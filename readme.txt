@@ -32,13 +32,13 @@ IMPORTANT:  You will need to edit the code of this plugin in 3 places in order f
 Here are the code changes you must edit:
 
 Line 35 (Your Moodle Site URL)- 
-$login = ('<br><p><strong>Moodle Login</strong></p><form id="form" name="form" method="post" action="http://yourmoodlesiteurl.com/login/index.php">
+action="http://yourmoodlesiteurl.com/login/index.php
 
 Line 44 (Moodle Database Connection)- 
-$con = mysql_connect("localhost","MySQLusername","MYSQLpassword");  
+mysql_connect("localhost","MySQLusername","MYSQLpassword");  
 
 Line 76 (Your Moodle Site URL)- 
-$output .= '<a href = "http://yourmoodlesiteurl.com/course/view.php?id='.$course->courseid.'">';
+"http://yourmoodlesiteurl.com/course/view.php?id='.$course->courseid.'"
 
 
 
