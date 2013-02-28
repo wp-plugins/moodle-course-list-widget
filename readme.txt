@@ -59,9 +59,7 @@ Most likely your database connection settings are incorrect.  Please recheck and
 == Screenshots ==
 
 1. Places where you must change the code are highlighted
-
 2. Here is the widget settings the end user will see.  The can add a title to the widget and add the Moodle User Account that they want to display courses for.
-
 3. Frontend display of courses.
 
 
